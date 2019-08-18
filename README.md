@@ -11,5 +11,6 @@
 ### 本项目截图<br/>
 ### 预览效果：
 <img src="https://github.com/Alexander-L-X/pc-spy/blob/master/view.png">
+
 ### 实机演示：
 <img src="https://github.com/Alexander-L-X/pc-spy/blob/master/test.jpg">
