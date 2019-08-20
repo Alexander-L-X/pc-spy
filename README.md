@@ -9,6 +9,12 @@
 ### 如果有问题请联系我 lxjpce@outlook.com
 ### 如果对您有用欢迎star 
 ### thank u
+
+# 2019.8.20更新 ：赛博朋克风格界面
+## 该界面将稍后上传模板
+### 预览效果：
+<img src="https://github.com/Alexander-L-X/pc-spy/blob/master/NEW.gif">
+
 ### 本项目截图<br/>
 ### 预览效果：
 <img src="https://github.com/Alexander-L-X/pc-spy/blob/master/view.png">
